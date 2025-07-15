@@ -25,5 +25,3 @@
 4. 至此自动签到就搭建完毕了，可以再次点击`Actions`查看工作记录，如果有`Baidu Tieba Auto Sign`则说明workflow创建成功了。点击右侧记录可以查看详细签到情况
 
 ![查看Action](https://user-images.githubusercontent.com/30728105/165702128-f364cda8-ceec-4b14-a5af-67c34b9de005.png)
- 
-
